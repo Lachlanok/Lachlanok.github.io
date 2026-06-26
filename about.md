@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Big Heading this is just a test
 
 ## Smaller Heading
