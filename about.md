@@ -3,14 +3,14 @@ layout: default
 title: About
 ---
 
-# Big Heading this is just a test
+# welcome to Big Monkey Inc,
 
 ## Smaller Heading
 
 Regular paragraph text.
 
-- Bullet point
-- Another bullet point
+- OOO ooo OOO OOO ooo
+- AAA aa aAA aaa AAA aaaa
 
 **Bold text**
 
